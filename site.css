@@ -1,0 +1,92 @@
+html, body, #repositorios{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{ font-size: 170%;}
+h2{ font-size: 110%;}
+p, b{ font-size: 85%;}
+h3{ font-size: 100%;}
+.titulo{ margin-bottom: 20px;}
+
+.titulosite{
+    margin-top: 50px;
+}
+
+.sobre{
+    margin-top: 50px;
+}
+
+.eu{
+    max-width: 200px;
+    margin-left: 35px;
+}
+
+.texto_sobre{
+    text-align: justify;
+    margin-top: 20px;
+    max-width: 90%;
+}
+
+.link{
+    text-decoration: underline;
+    color: black;
+}
+
+#conteudo{
+    padding-top: 25px;
+}
+
+#conteudo, h1{
+    margin-bottom: 35px;
+}
+
+.redes{
+    margin-top: 85px;
+}
+
+.redes img{
+    max-width: 50px;
+}
+
+.exemplos{
+    margin-top: 30px;
+}
+
+.arduino{
+    margin-top: 18px;
+}
+
+.arduino{
+    padding-bottom: 30px;
+}
+.arduino h2, .experiencia p, .experiencia h3{
+    padding-top: 12px;
+}
+
+#video{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.tinkercad{
+    background-color: rgb(151, 190, 235);
+    padding-left: 150px !important;
+    padding-right: 150px !important;
+    text-align: justify;
+    padding-bottom: 20px;
+}
+
+.tinkercad h1{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+/*Rodapé*/
+.footer{
+    background-color: rgb(108, 169, 238);
+    padding: 15px;
+}
+/*Rodapé*/
